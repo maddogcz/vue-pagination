@@ -1,0 +1,14 @@
+{
+    "name": "@maddogcz/pagination",
+    "version": "0.0.1",
+    "description": "Vue pagination composables",
+    "license": "MIT",
+    "repository": "maddogcz/vue-pagination",
+    "main": "index.js",
+    "keywords": [
+        "vue",
+        "vue3",
+        "javascript",
+        "pagination"
+    ]
+}
