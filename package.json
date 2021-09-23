@@ -1,6 +1,6 @@
 {
     "name": "@maddogcz/pagination",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Vue pagination composables",
     "license": "MIT",
     "repository": "maddogcz/vue-pagination",
@@ -8,7 +8,9 @@
     "keywords": [
         "vue",
         "vue3",
+        "vuejs",
         "javascript",
         "pagination"
-    ]
+    ],
+    "dependencies": {}
 }
